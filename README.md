@@ -11,4 +11,4 @@ Edit:
   - Select All
   - Close
 
-The Application is developed using Java JSwing Framework.
+The Application is developed using Java Swing Framework.
